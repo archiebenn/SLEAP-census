@@ -1,0 +1,3 @@
+setup_id	ants_measured	median_length_px	q25	q75	resize_to_standard	source
+box_4k_2026	2321	49.5	46.3	53.9	1.0096	measured
+petri_5500	1595	261.8	236.6	297.8	0.191	measured
